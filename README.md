@@ -1,4 +1,4 @@
-# Aditya's Big and Dark Title
+# Hi I'm Aditya
 
-<font size="6" color="#333333">This is big and dark text.</font>
+<font size="6" color="#333333"></font>
 
